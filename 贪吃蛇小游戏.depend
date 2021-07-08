@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607428299 source:c:\users\dd\source\repos\贪吃蛇小游戏\贪吃蛇小游戏\贪吃蛇小游戏.cpp
+	<graphics.h>
+	<time.h>
+	<conio.h>
+	<stdio.h>
+
